@@ -1,0 +1,24 @@
+.fab{
+    font-size: 40px;
+}
+.btn{
+    background-color:white;
+    color:black;
+}
+nav{
+    background-color:#222831;
+    margin-bottom:50px;
+}
+body{
+    background-color:#393e46;
+}
+.card{
+    background-color:#222831;
+}
+.card-action.a{
+    color:springgreen;
+}
+.tweetinput{
+    background-color:#222831;
+    padding:20px;
+}
