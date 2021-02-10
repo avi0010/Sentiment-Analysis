@@ -3,5 +3,5 @@ from . import views
 
 urlpatterns = [
    path("", views.homepage, name='home'),
-   path("search", views.tweet_search, name="search"),
+   path("api", views.tf_processing.as_view()),
 ]

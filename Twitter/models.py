@@ -12,3 +12,4 @@ class tweet_id(models.Model):
 
     class Meta:
         verbose_name_plural = 'Twitter ID'
+
